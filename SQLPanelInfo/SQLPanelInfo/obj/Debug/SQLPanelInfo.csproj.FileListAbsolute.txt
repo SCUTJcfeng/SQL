@@ -1,0 +1,10 @@
+c:\users\jc\documents\visual studio 2017\Projects\SQLPanelInfo\SQLPanelInfo\bin\Debug\SQLPanelInfo.exe.config
+c:\users\jc\documents\visual studio 2017\Projects\SQLPanelInfo\SQLPanelInfo\bin\Debug\SQLPanelInfo.exe
+c:\users\jc\documents\visual studio 2017\Projects\SQLPanelInfo\SQLPanelInfo\bin\Debug\SQLPanelInfo.pdb
+c:\users\jc\documents\visual studio 2017\Projects\SQLPanelInfo\SQLPanelInfo\obj\Debug\SQLPanelInfo.Form1.resources
+c:\users\jc\documents\visual studio 2017\Projects\SQLPanelInfo\SQLPanelInfo\obj\Debug\SQLPanelInfo.Properties.Resources.resources
+c:\users\jc\documents\visual studio 2017\Projects\SQLPanelInfo\SQLPanelInfo\obj\Debug\SQLPanelInfo.csproj.GenerateResource.Cache
+c:\users\jc\documents\visual studio 2017\Projects\SQLPanelInfo\SQLPanelInfo\obj\Debug\SQLPanelInfo.csproj.CoreCompileInputs.cache
+c:\users\jc\documents\visual studio 2017\Projects\SQLPanelInfo\SQLPanelInfo\obj\Debug\SQLPanelInfo.exe
+c:\users\jc\documents\visual studio 2017\Projects\SQLPanelInfo\SQLPanelInfo\obj\Debug\SQLPanelInfo.pdb
+c:\users\jc\documents\visual studio 2017\Projects\SQLPanelInfo\SQLPanelInfo\obj\Debug\SQLPanelInfo.csprojResolveAssemblyReference.cache

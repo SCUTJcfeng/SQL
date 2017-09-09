@@ -1,0 +1,10 @@
+C:\Users\JC\Documents\Visual Studio 2017\Projects\SqlProduction\SqlProduction\bin\Debug\SqlProduction.exe.config
+C:\Users\JC\Documents\Visual Studio 2017\Projects\SqlProduction\SqlProduction\bin\Debug\SqlProduction.exe
+C:\Users\JC\Documents\Visual Studio 2017\Projects\SqlProduction\SqlProduction\bin\Debug\SqlProduction.pdb
+C:\Users\JC\Documents\Visual Studio 2017\Projects\SqlProduction\SqlProduction\obj\Debug\SqlProduction.csprojResolveAssemblyReference.cache
+C:\Users\JC\Documents\Visual Studio 2017\Projects\SqlProduction\SqlProduction\obj\Debug\SqlProduction.Form1.resources
+C:\Users\JC\Documents\Visual Studio 2017\Projects\SqlProduction\SqlProduction\obj\Debug\SqlProduction.Properties.Resources.resources
+C:\Users\JC\Documents\Visual Studio 2017\Projects\SqlProduction\SqlProduction\obj\Debug\SqlProduction.csproj.GenerateResource.Cache
+C:\Users\JC\Documents\Visual Studio 2017\Projects\SqlProduction\SqlProduction\obj\Debug\SqlProduction.csproj.CoreCompileInputs.cache
+C:\Users\JC\Documents\Visual Studio 2017\Projects\SqlProduction\SqlProduction\obj\Debug\SqlProduction.exe
+C:\Users\JC\Documents\Visual Studio 2017\Projects\SqlProduction\SqlProduction\obj\Debug\SqlProduction.pdb

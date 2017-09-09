@@ -1,0 +1,10 @@
+C:\Users\JC\Documents\Visual Studio 2017\Projects\SQLRW01\SQLRW01\bin\Debug\SQLRW01.exe.config
+C:\Users\JC\Documents\Visual Studio 2017\Projects\SQLRW01\SQLRW01\bin\Debug\SQLRW01.exe
+C:\Users\JC\Documents\Visual Studio 2017\Projects\SQLRW01\SQLRW01\bin\Debug\SQLRW01.pdb
+C:\Users\JC\Documents\Visual Studio 2017\Projects\SQLRW01\SQLRW01\obj\Debug\SQLRW01.Form1.resources
+C:\Users\JC\Documents\Visual Studio 2017\Projects\SQLRW01\SQLRW01\obj\Debug\SQLRW01.Properties.Resources.resources
+C:\Users\JC\Documents\Visual Studio 2017\Projects\SQLRW01\SQLRW01\obj\Debug\SQLRW01.csproj.GenerateResource.Cache
+C:\Users\JC\Documents\Visual Studio 2017\Projects\SQLRW01\SQLRW01\obj\Debug\SQLRW01.csproj.CoreCompileInputs.cache
+C:\Users\JC\Documents\Visual Studio 2017\Projects\SQLRW01\SQLRW01\obj\Debug\SQLRW01.exe
+C:\Users\JC\Documents\Visual Studio 2017\Projects\SQLRW01\SQLRW01\obj\Debug\SQLRW01.pdb
+C:\Users\JC\Documents\Visual Studio 2017\Projects\SQLRW01\SQLRW01\obj\Debug\SQLRW01.csprojResolveAssemblyReference.cache
